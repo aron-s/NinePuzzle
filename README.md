@@ -1,2 +1,2 @@
 # NinePuzzle
-A program solviong NinePuzzle using BFS.
+A program solving NinePuzzle using BFS.
